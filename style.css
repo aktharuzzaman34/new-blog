@@ -13,16 +13,25 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
     padding-left: 5%;
+    padding-right: 5%;
 }
 .half-width img{
-    width: 85%;
+    width: 100%;
 }
 .half-width p{
     text-align: justify;
+}
+.design{
+    width: 50%;
+    padding-left: 5%;
+}
+.design img{
+    width: 70%;
 }
 .link-button{
     text-decoration: none;
